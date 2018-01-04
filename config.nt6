@@ -7,10 +7,10 @@
 ###############################################################################
 
 # name of this mud
-name : Ð¦°Á½­ºþ
+name : ni tan smile ao six
 
 # port number to accept users on
-port number : 5555
+port number : 6667
 external_port_2: telnet 5555
 #external_port_3: telnet 5000
 #external_port_4: telnet 6000
@@ -18,7 +18,7 @@ external_port_2: telnet 5555
 # the address server is an external program that lets the mud translate
 # internet names to numbers (and vice versa).  select an unused port.
 address server ip : localhost
-address server port : 3990
+address server port : 6666
 
 # absolute pathname of mudlib
 mudlib directory : .
